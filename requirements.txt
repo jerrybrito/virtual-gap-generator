@@ -1,0 +1,2 @@
+# Requires: pseudo-cycle
+# (Not available on PyPI)
